@@ -1,4 +1,8 @@
-A variable always need to bve understandable
+** `var` is used globally, it is used inside of {} and outside of {} both.
+** `const` is define a fixed value.
+** `let` is used as a blocked scope variable, and its value can't be re-declared.
+
+A variable always need to be understandable
 Variable name does not started with any number or any symbol, onlu _ and $ will be allow.
 
 VARIABLE RULES:
@@ -23,6 +27,13 @@ Data Types -
         Symbol
     One `non-Primitive` Datatype :-
         Objects
+________________________________
+Arithmetic Operators:
+    +,-,*,/
+    module,
+    exponation,
+    increment,
+    decrement.
         
 
 
