@@ -29,3 +29,20 @@ DOM element method:
 Attributes: 
     getAttribute(attr) ->to get the attribute value.
     setAttribute(attr,value) ->to set the attribute value.
+
+    another is-
+        style() ->this attribute is used to given style to the node.
+
+
+Insert Element: 
+
+    * At first we need to create element to append it ->
+        document.createElement("") -> after that append the element.
+    node.append(element) ->adds at the end of the node.(inside)
+    node.prepend(element) ->adds at the starts of the node.(inside)
+    node.before(element) ->adds before the node.(outside)
+    node.after(element) ->adds after the node.(outside)
+______________________________________________________________________________
+
+Delete Element:
+    node.remove() ->This is used to delete node element.
